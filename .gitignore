@@ -1,0 +1,25 @@
+
+
+
+
+# .NET build output
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Local IDE settings
+.vscode/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+**/appsettings.Development.json
+**/secrets.json
+
+# Logs
+*.log

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ECommerceAPILayer/ECommerceAPILayer.csproj" />
+  <Project Path="ECommerceContractLair/ECommerceContractLair.csproj" />
+  <Project Path="ECommerceDomainLair/ECommerceDomainLair.csproj" />
+  <Project Path="ECommerceInfraStructureLair/ECommerceInfraStructureLair.csproj" />
+  <Project Path="ECommerceUseCaseLair/ECommerceUseCaseLair.csproj" />
+</Solution>
